@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "X95CWGK9TY.ae.gov.sdg.smartemployee",
+          "X95CWGK9TY.ae.gov.sdg.smartemployee.qa"
+        ],
+        "paths": [ "*" ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "X95CWGK9TY.ae.gov.sdg.smartemployee",
+      "X95CWGK9TY.ae.gov.sdg.smartemployee.qa"
+    ]
+  }
+}
