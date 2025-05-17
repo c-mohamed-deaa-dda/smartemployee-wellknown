@@ -1,0 +1,28 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ae.gov.sdg.smartemployee.qa",
+      "sha256_cert_fingerprints": [
+        "C2:15:58:92:0C:12:55:B0:C0:27:08:8C:C4:FE:7B:AA:6D:16:7E:E1:88:31:C9:12:43:F1:10:D5:3A:4F:8D:3E",
+        "97:93:2E:AE:AF:DC:F6:7B:30:BA:E1:9A:5C:C9:ED:11:2D:14:36:A7:DD:39:50:E3:BD:3F:FA:5C:9B:8E:8A:05"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ae.gov.sdg.smartemployee",
+      "sha256_cert_fingerprints": [
+        "C2:15:58:92:0C:12:55:B0:C0:27:08:8C:C4:FE:7B:AA:6D:16:7E:E1:88:31:C9:12:43:F1:10:D5:3A:4F:8D:3E",
+        "97:93:2E:AE:AF:DC:F6:7B:30:BA:E1:9A:5C:C9:ED:11:2D:14:36:A7:DD:39:50:E3:BD:3F:FA:5C:9B:8E:8A:05"
+      ]
+    }
+  }
+]
